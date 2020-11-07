@@ -173,6 +173,7 @@ nav a {
   color: black;
 }
 
+/* TOP CONTENT */
 .top-content {
   display: flex;
   flex-wrap: wrap;
@@ -191,6 +192,7 @@ nav a {
   padding-bottom: 20px;
 }
 
+/* MIDDLE CONTENT */
 .middle-content {
   margin-bottom: 20px;
   border-bottom: 1px dashed black;
@@ -258,6 +260,7 @@ nav a {
   background-color: dodgerblue;
 }
 
+/* BOTTOM CONTENT */
 .bottom-content {
   display: flex;
   margin: 0 2% 20px;
@@ -272,6 +275,7 @@ nav a {
   padding-right: 0;
 }
 
+/* FOOTER */
 footer {
   width: 100%;
   background: black;
@@ -291,18 +295,18 @@ footer nav a {
   text-decoration: none;
 }
 
-/* .about-page {
-  display: flex;
-  flex-direction: column;
-  width: 1100px;
-} */
+/*  */
+/* ABOUT PAGE */
+/*  */
 
+/* TOP CONTENT */
 .about-top-content {
   margin-bottom: 20px;
   border-bottom: 1px dashed black;
   padding: 20px;
 }
 
+/* MIDDLE CONTENT */
 .about-middle-content {
   display: flex;
   flex-wrap: wrap;
