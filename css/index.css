@@ -290,3 +290,44 @@ footer nav a {
   color: white;
   text-decoration: none;
 }
+
+/* .about-page {
+  display: flex;
+  flex-direction: column;
+  width: 1100px;
+} */
+
+.about-top-content {
+  margin-bottom: 20px;
+  border-bottom: 1px dashed black;
+  padding: 20px;
+}
+
+.about-middle-content {
+  display: flex;
+  flex-wrap: wrap;
+  margin-bottom: 20px;
+}
+
+.card {
+  width: 45%;
+  border-bottom: 1px dashed black;
+  padding-bottom: 20px;
+  margin: 20px;
+  display: flex;
+  flex-direction: column;
+}
+
+.card img {
+  margin-bottom: 20px;
+}
+
+.card a {
+  color: black;
+  border: 2px solid black;
+  width: 7.4rem;
+  padding: 0.75rem 0;
+  text-align: center;
+  margin-top: 20px;
+  border-radius: 15px;
+}
